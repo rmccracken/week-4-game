@@ -1,0 +1,15 @@
+
+.container{
+		text-align: center;
+}
+h1{
+	color: blue;
+}
+h2{
+	color: grey;
+}
+
+img {
+	width: 75px;
+	height: 75px;
+}
