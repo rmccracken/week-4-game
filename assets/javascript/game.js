@@ -16,10 +16,10 @@
 	var addUpdate = function(){
 		$('.addition').empty();
 		$(".addition").append(addition);
-		$('#Wins').empty();
-		$('#Wins').append(wins);
-		$('#Losses').empty();
-		$('#Losses').append(losses);
+		$('#wins').empty();
+		$('#wins').append(wins);
+		$('#losses').empty();
+		$('#losses').append(losses);
 	}
 
 	var reset = function(){
