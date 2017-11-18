@@ -1,15 +1,22 @@
 
 .container{
 		text-align: center;
-}
+	}
 h1{
-	color: blue;
+	color: #3a3a3a;
 }
 h2{
-	color: grey;
+	color: #3a3a3a;
 }
 
 img {
 	width: 75px;
 	height: 75px;
 }
+#total{
+	text-align: center;
+}
+body{
+
+			background: #8942f4;
+	}
